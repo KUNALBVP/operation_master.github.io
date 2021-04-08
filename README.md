@@ -6,7 +6,7 @@ Simple mathematical questions like 6*7 will pops up on the screen and the player
 
 With each correct answer the score will be increased. And with each incorrect answer, score will be deducted.
 
-Open the website from [here]().
+Open the website from [here](https://kunalbvp.github.io/operation_master.github.io/).
 
 ### Found this project useful? :heart:
 
