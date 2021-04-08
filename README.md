@@ -6,6 +6,8 @@ Simple mathematical questions like 6*7 will pops up on the screen and the player
 
 With each correct answer the score will be increased. And with each incorrect answer, score will be deducted.
 
+Open the website from [here]().
+
 ### Found this project useful? :heart:
 
 If you found this project useful, then please consider giving it a :star: on Github and sharing it with your friends via social media.
