@@ -1,5 +1,11 @@
 # Operation Master Website
 
+This is a Fully functional and easy to play **math game** website. 
+
+Simple mathematical questions like 6*7 will pops up on the screen and the player need to make one correct choice from the four given options.
+
+With each correct answer the score will be increased. And with each incorrect answer, score will be deducted.
+
 ### Found this project useful? :heart:
 
 If you found this project useful, then please consider giving it a :star: on Github and sharing it with your friends via social media.
